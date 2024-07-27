@@ -3,8 +3,7 @@
 支持Ventura版本
 ---
 **下载**
-* 国内地址：Ventura [https://95muxi.lanzoub.com/b022ehlkh 密码:7kt4](https://95muxi.lanzoue.com/igNYL1xkk7xa
-密码:aua7)
+* 国内地址：Ventura https://95muxi.lanzoue.com/igNYL1xkk7xa 密码:aua7
 ---
 **配置**
 * CPU型号	英特尔酷睿 i5-1035G1
