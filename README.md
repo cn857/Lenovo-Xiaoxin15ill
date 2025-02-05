@@ -1,9 +1,9 @@
 # Lenovo-Xiaoxin15ill
-联想小新15ill的黑苹果 EFI
-支持Ventura版本
+联想小新15ill的黑苹果 EFI Ventura版本
 ---
 **下载**
 * 国内地址：Ventura https://95muxi.lanzoue.com/igNYL1xkk7xa 密码:aua7
+* 25.2.5更新: https://95muxi.lanzoue.com/iWUGO2mrum0j
 ---
 **配置**
 * CPU型号	英特尔酷睿 i5-1035G1
